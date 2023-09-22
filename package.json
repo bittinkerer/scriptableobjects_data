@@ -5,8 +5,7 @@
   "description": "Data models to be used as scriptable objects",
   "unity": "2019.1",
   "unityRelease": "0b5",  
-  "dependencies": {
-    "com.estenis.scriptableobjects_data": "1.0.0"
+  "dependencies": {    
 	
  },
  "keywords": [
